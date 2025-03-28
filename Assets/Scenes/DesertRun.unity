@@ -7284,8 +7284,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6578aa41bf7850f438c4bd53b19f9d39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 6
-  horizontalSpeed: 3
+  playerSpeed: 15
+  horizontalSpeed: 10
   rightLimit: 5.5
   leftLimit: -5.5
 --- !u!1 &919678872
@@ -8853,7 +8853,7 @@ Animator:
   m_GameObject: {fileID: 58439541}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3cd5911dc5375494aa36c76341431f32, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0c8db592211b1a34984ffd21c948e630, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -10940,11 +10940,11 @@ RectTransform:
   m_Children:
   - {fileID: 1784278114}
   - {fileID: 1171580854}
-  - {fileID: 1909276732}
   - {fileID: 1673758265}
   - {fileID: 1728909072}
   - {fileID: 700377439}
   - {fileID: 1308984701}
+  - {fileID: 1909276732}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
